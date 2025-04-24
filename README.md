@@ -1,2 +1,2 @@
-# IT130-Networking-Wiki
-Networking Knowledge Base for IT130 Class
+# IT130 Networking Wiki & Labs
+This repo contains labs, wiki pages, and notes for Rami's IT130 course.
